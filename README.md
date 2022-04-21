@@ -3,7 +3,7 @@
 
 &nbsp;
 
-### **How to play:**
+# **How to play:**
 - Destroy the balls that don't match the name inside with the ball's collor.
 - The E.T clean the screen exploding all the ball and gives you +20 on your score.
 - The Meteor makes you lose scores.
